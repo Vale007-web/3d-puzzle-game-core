@@ -22,6 +22,18 @@ Un core modulare e ad alte prestazioni per un gioco puzzle 3D web-based, svilupp
 
 <br>
 
+## Indice
+
+- [Stack tecnologico e strumenti](#stack-tecnologico-e-strumenti)
+- [Avvio rapido (configurazione locale)](#avvio-rapido-configurazione-locale)
+- [Versioni evolutive e roadmap di sviluppo](#versioni-evolutive-e-roadmap-di-sviluppo)
+- [Regole e condizioni di vittoria/sconfitta](#regole-e-condizioni-di-vittoriasconfitta)
+- [Struttura del progetto](#struttura-del-progetto)
+- [Metodologia di sviluppo e collaborazione con l'IA](#metodologia-di-sviluppo-e-collaborazione-con-lia)
+- [Note legali e diritti d'uso](#note-legali-e-diritti-duso)
+
+<br>
+
 ## Stack tecnologico e strumenti
 
 * **Motore / Grafica:** Three.js (WebGL)
