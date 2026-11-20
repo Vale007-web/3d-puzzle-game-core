@@ -18,6 +18,8 @@ A high-performance, modular 3D web-based puzzle game core built with **Three.js*
   </tr>
 </table>
 
+> **Playable Demo:** Try the live build in your browser → **[Play 3D Puzzle Game Core](https://vale007-web.github.io/3d-puzzle-game-core/)**
+
 <br>
 
 ## Tech Stack \& Tools

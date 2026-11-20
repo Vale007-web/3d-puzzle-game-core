@@ -18,6 +18,8 @@ Un core modulare e ad alte prestazioni per un gioco puzzle 3D web-based, svilupp
   </tr>
 </table>
 
+> **Demo Giocabile:** Prova la build direttamente nel browser → **[Gioca a 3D Puzzle Game Core](https://vale007-web.github.io/3d-puzzle-game-core/)**
+
 <br>
 
 ## Stack tecnologico e strumenti
