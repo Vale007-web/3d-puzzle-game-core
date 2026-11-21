@@ -160,8 +160,7 @@ Questo progetto è stato sviluppato utilizzando un flusso di lavoro collaborativ
 
 1. **Gemini (Strategia e protezioni):** Utilizzato come collaboratore per l'architettura e l'ingegneria dei prompt. Le richieste di modifica grezze venivano fornite a Gemini, che le trasformava in prompt tecnici precisi e altamente strutturati, corredati da vincoli rigorosi e protezioni delle prestazioni.
 2. **GitHub Copilot (Implementazione):** I prompt ottimizzati generati da Gemini venivano quindi forniti direttamente a Copilot in VS Code, che aveva il pieno contesto del progetto ed eseguiva le inserzioni di codice e le modifiche ai file con precisione. Questo ha massimizzato l'efficienza dei token e ridotto al minimo i cicli di iterazione.
-3. **Rifinitura manuale del codice e messa a punto:** L'autore ha mantenuto una supervisione pratica durante tutto il processo, effettuando modifiche dirette manualmente, debug, correzioni della logica, regolazioni dei parametri e messa a punto per garantire precisione assoluta e rifinitura visiva.
-4. **Filtraggio del registro dei prompt:** I registri ufficiali dei prompt si concentrano sulle principali tappe architetturali e sulle funzionalità fondamentali. Le modifiche iterative banali (come piccole regolazioni delle coordinate o modifiche esplorative dei parametri effettuate manualmente) sono state omesse per maggiore chiarezza.
+3. **Rifinitura manuale del codice e messa a punto:** Mantenuta una supervisione pratica durante tutto il processo, effettuando modifiche dirette manualmente, debug, correzioni della logica, regolazioni dei parametri e messa a punto per garantire precisione assoluta e rifinitura visiva.
 
 <br>
 
